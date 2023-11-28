@@ -39,7 +39,7 @@ export default function Navbar() {
                             <Link className="nav-link text-black mx-4  " aria-current="page" to="">Home</Link>
                         </li>
                         <li class="nav-item dropdown">
-                            <Link to={'/choose'} class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <Link class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Properties
                             </Link>
                             <ul class="dropdown-menu">
