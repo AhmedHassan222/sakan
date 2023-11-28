@@ -111,28 +111,67 @@ export default function Home() {
                 <p className="text-muted text-center fs-5  mb-5">See our featured properties and explore all of that to know more about our real estate properties very easy</p>
                 <div className="row  my-3">
                     <div className="col-sm-12 col-md-4 col-lg-4 " >
-                        <div className="bg-featured-property">
+                        <div className="bg-featured-property ">
                             <img src={img5} className="w-100" alt="" />
                             <p className=" fw-bold text-center  fs-5 mt-3">EGP 1,200,000</p>
                             <p className="text-center">12/322 Albert street East Melbourne</p>
-                            <hr />                        </div>
+                            <hr />
+                            <div className="d-flex justify-content-around p-3">
+                                <div>
+                                    <p className="text-muted">Bedroom</p>
+
+                                </div>
+                                <div>
+                                    <p className="text-muted">Bathroom</p>
+                                </div>
+                                <div>
+                                    <p className="text-muted">Garage</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <div className="col-sm-12 col-md-4 col-lg-4 " >
-                        <div className="bg-featured-property">
+                        <div className="bg-featured-property ">
                             <img src={img2} className="w-100" alt="" />
                             <p className=" fw-bold text-center  fs-5 mt-3">EGP 2,500,000</p>
                             <p className="text-center">12/322 Albert street East Melbourne</p>
                             <hr />
+                            <div className="d-flex justify-content-around p-3">
+                                <div>
+                                    <p className="text-muted">Bedroom</p>
+
+                                </div>
+                                <div>
+                                    <p className="text-muted">Bathroom</p>
+                                </div>
+                                <div>
+                                    <p className="text-muted">Garage</p>
+                                </div>
+                            </div>
+
 
 
                         </div>
                     </div>
                     <div className="col-sm-12 col-md-4 col-lg-4 " >
-                        <div className="bg-featured-property">
+                        <div className="bg-featured-property ">
                             <img src={img3} className="w-100" alt="" />
                             <p className=" fw-bold text-center  fs-5 mt-3">EGP 3,200,000</p>
                             <p className="text-center">12/322 Albert street East Melbourne</p>
                             <hr />
+                            <div className="d-flex justify-content-around p-3">
+                                <div>
+                                    <p className="text-muted">Bedroom</p>
+
+                                </div>
+                                <div>
+                                    <p className="text-muted">Bathroom</p>
+                                </div>
+                                <div>
+                                    <p className="text-muted">Garage</p>
+                                </div>
+                            </div>
+
 
 
                         </div>

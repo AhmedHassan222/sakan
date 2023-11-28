@@ -1,5 +1,5 @@
 import React from "react";
-import sakenImges from "../assets/sakan.jfif";
+import sakenImges from "../assets/mainImage.png";
 function Footer() {
   return (
     <>
@@ -9,9 +9,9 @@ function Footer() {
             <div className="col-md-3">
               <div className="content">
                 <div>
-                  <img src={sakenImges} className="w-25 " alt="" />
+                  <img src={sakenImges} className="w-50 " alt="" />
                 </div>
-                <p className="my-2">Sakan@house.com</p>
+                <p className="my]=\-2">Sakan@house.com</p>
                 <p className="my-2">+01202499897</p>
                 <p className="my-2">Lorem ipsum dolor sit amet consectetur.</p>
                 <div className="d-flex align-items-center justify-content-start ">
