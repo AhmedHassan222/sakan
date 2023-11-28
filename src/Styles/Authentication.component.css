@@ -1,0 +1,28 @@
+button 
+{
+    border: solid 1px rgb(4, 4, 75);
+    transition: all 0.3s;
+    
+}
+button:hover 
+{
+
+    background-color: rgb(4, 4, 75) !important;
+    color: white;
+}
+input 
+{
+    border: solid 1px rgb(166, 166, 166);
+}
+
+input:focus 
+{
+    outline: none;
+}
+
+form 
+{
+    width: 40%;
+    border: solid 1px rgb(193, 193, 193);
+}
+

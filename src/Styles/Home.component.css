@@ -1,0 +1,40 @@
+header {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.mainHead {
+    font-size: 500px;
+}
+
+.hightSpecial 
+{
+    height: 80vh;
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bg-style 
+{
+    background-color: rgb(197, 197, 197);
+    transition: background-color 0.5s;
+}
+.bg-style:hover
+{
+    background-color: white;
+    cursor: pointer;
+}
+
+.searchButton 
+{
+    background-color: rgb(4, 4, 58);
+}
+
+.bg-property 
+{
+    background-color:rgb(244, 243, 243) ;
+    min-height: 400px !important;
+}
