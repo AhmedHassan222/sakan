@@ -1,5 +1,5 @@
 import React from "react";
-import imges from "../../assats/1858f084-f9a0-4b4b-9c00-879d5be5bcef.jfif";
+import sakenImges from "../assets/sakan.jfif";
 function Footer() {
   return (
     <>
@@ -9,7 +9,7 @@ function Footer() {
             <div className="col-md-3">
               <div className="content">
                 <div>
-                  <img src={imges} className="w-25 " alt="" />
+                  <img src={sakenImges} className="w-25 " alt="" />
                 </div>
                 <p className="my-2">Sakan@house.com</p>
                 <p className="my-2">+01202499897</p>
