@@ -29,7 +29,7 @@ export default function Register() {
 
 
 
-                <button className={`mt-3 bg-white p-2   w-100`}>
+                <button className={`mt-3 bg-white p-2 button-auth  w-100`}>
                     Register
                 </button>
 

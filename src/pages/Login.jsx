@@ -3,7 +3,7 @@ import style from "../Styles/Authentication.component.css"
 
 export default function Login() {
     return <>
-        <div className={`d-flex justify-content-center align-items-center backLogin my-5 vh-100`}>
+        <div className={`d-flex justify-content-center align-items-center backLogin my-5 vh-100 `}>
             <form action="" className={` mx-auto  px-5 py-4 bg-white my-5`}>
 
                 <h3 className=' text-center mb-5'>Login</h3>
@@ -19,7 +19,7 @@ export default function Login() {
 
 
 
-                <button className={`mt-3 bg-white p-2   w-100`}>
+                <button className={`mt-3 bg-white p-2 button-auth  w-100`}>
                     Login
                 </button>
 
@@ -29,5 +29,9 @@ export default function Login() {
 
 
         </div>
+
+
+
+
     </>
 }

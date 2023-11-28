@@ -1,28 +1,26 @@
-button 
-{
+.button-auth {
     border: solid 1px rgb(4, 4, 75);
     transition: all 0.3s;
-    
+
 }
-button:hover 
-{
+
+.button-auth:hover {
 
     background-color: rgb(4, 4, 75) !important;
     color: white;
 }
-input 
-{
+
+input {
     border: solid 1px rgb(166, 166, 166);
 }
 
-input:focus 
-{
+input:focus {
     outline: none;
 }
 
-form 
-{
-    width: 40%;
+form {
+    width: 30%;
     border: solid 1px rgb(193, 193, 193);
+
 }
 

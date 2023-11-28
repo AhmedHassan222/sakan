@@ -2,20 +2,15 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-
+    height: 100vh;
 }
+
 
 .mainHead {
     font-size: 500px;
 }
 
-.hightSpecial 
-{
-    height: 80vh;
-    width: 100%;
-    flex-direction: column;
-    justify-content: space-between;
-}
+
 
 .bg-style 
 {
@@ -31,10 +26,22 @@ header {
 .searchButton 
 {
     background-color: rgb(4, 4, 58);
+    border: none;
 }
 
 .bg-property 
 {
     background-color:rgb(244, 243, 243) ;
-    min-height: 400px !important;
+}
+
+.height1 , .height2
+{
+    height: 50vh;
+}
+
+.bg-featured-property 
+
+{
+    background-color:rgb(244, 243, 243) ;
+
 }
