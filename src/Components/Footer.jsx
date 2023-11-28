@@ -5,7 +5,7 @@ function Footer() {
     <>
       <div className="bg-light">
         <div className="container my-2  text-dark p-4">
-          <div className="row align-items-center ">
+          <div className="row gy-4 align-items-center ">
             <div className="col-md-3">
               <div className="content">
                 <div>
@@ -13,10 +13,10 @@ function Footer() {
                 </div>
                 <p className="my-2">Sakan@house.com</p>
                 <p className="my-2">+01202499897</p>
-                <p className="my-2">Lorem ipsum dolor sit amet consectetur.</p>
+                <p className="my-2"> 2023 All Rights Reserved - Sakan.com</p>
                 <div className="d-flex align-items-center justify-content-start ">
                   <i className="fa-brands fa-facebook text-primary fs-3 mx-3"></i>
-                  <i class="fa-brands fa-instagram text-warning fs-3 mx-3"></i>
+                  <i class="fa-brands fa-instagram text-primary fs-3 mx-3"></i>
                   <i class="fa-brands fa-twitter text-primary fs-3 mx-3"></i>
                 </div>
               </div>

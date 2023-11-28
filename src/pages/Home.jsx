@@ -13,6 +13,8 @@ import type1 from "../../src/assets/type1.png"
 import type2 from "../../src/assets/type2.png"
 import type3 from "../../src/assets/type3.png"
 import type4 from "../../src/assets/type4.png"
+import Choose from "./Choose"
+import Contacts from "./Contacts"
 
 export default function Home() {
 
@@ -141,6 +143,8 @@ export default function Home() {
                 </div>
             </div>
         </section>
+        <Choose/>
+        <Contacts/>
     </>
 }
 
