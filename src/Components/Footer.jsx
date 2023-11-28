@@ -1,5 +1,5 @@
 import React from "react";
-
+import imges from "../../assats/1858f084-f9a0-4b4b-9c00-879d5be5bcef.jfif";
 function Footer() {
   return (
     <>
