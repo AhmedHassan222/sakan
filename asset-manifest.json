@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sakan/static/css/main.3c6b4abf.css",
-    "main.js": "/sakan/static/js/main.6c9556d8.js",
+    "main.css": "/sakan/static/css/main.09b744c6.css",
+    "main.js": "/sakan/static/js/main.9114606b.js",
     "static/js/787.d5830291.chunk.js": "/sakan/static/js/787.d5830291.chunk.js",
     "static/media/background.jpg": "/sakan/static/media/background.ade8ec972df40c62bdbe.jpg",
     "static/media/fa-solid-900.ttf": "/sakan/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
@@ -18,12 +18,12 @@
     "static/media/fa-v4compatibility.ttf": "/sakan/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/sakan/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/sakan/index.html",
-    "main.3c6b4abf.css.map": "/sakan/static/css/main.3c6b4abf.css.map",
-    "main.6c9556d8.js.map": "/sakan/static/js/main.6c9556d8.js.map",
+    "main.09b744c6.css.map": "/sakan/static/css/main.09b744c6.css.map",
+    "main.9114606b.js.map": "/sakan/static/js/main.9114606b.js.map",
     "787.d5830291.chunk.js.map": "/sakan/static/js/787.d5830291.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c6b4abf.css",
-    "static/js/main.6c9556d8.js"
+    "static/css/main.09b744c6.css",
+    "static/js/main.9114606b.js"
   ]
 }
