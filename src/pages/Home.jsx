@@ -59,7 +59,7 @@ export default function Home() {
                 <p className="text-muted text-center fs-5 mb-5">Here you'll find more information below in different types that suits for you</p>
                 <div className="row  my-3">
                     <div className="col-sm-12 col-md-6 col-lg-3 " >
-                        <div className="bg-property   p-4">
+                        <div className="bg-light   p-4">
                             <div className="d-flex justify-content-center">
                                 <img src={type1} className="  w-50 " alt="" />
 
@@ -70,7 +70,7 @@ export default function Home() {
 
                     </div>
                     <div className="col-sm-12 col-md-6 col-lg-3 " >
-                        <div className="bg-property   p-4">
+                        <div className="bg-light   p-4">
                             <div className="d-flex justify-content-center">
                                 <img src={type2} className="  w-50 " alt="" />
 
@@ -81,7 +81,7 @@ export default function Home() {
 
                     </div>
                     <div className="col-sm-12 col-md-6 col-lg-3 " >
-                        <div className="bg-property   p-4">
+                        <div className="bg-light   p-4">
                             <div className="d-flex justify-content-center">
                                 <img src={type3} className="  w-50 " alt="" />
 
@@ -92,7 +92,7 @@ export default function Home() {
 
                     </div>
                     <div className="col-sm-12 col-md-6 col-lg-3 " >
-                        <div className="bg-property   p-4">
+                        <div className="bg-light   p-4">
                             <div className="d-flex justify-content-center">
                                 <img src={type4} className="  w-50 " alt="" />
 
@@ -113,7 +113,7 @@ export default function Home() {
                 <p className="text-muted text-center fs-5  mb-5">See our featured properties and explore all of that to know more about our real estate properties very easy</p>
                 <div className="row  my-3">
                     <div className="col-sm-12 col-md-4 col-lg-4 " >
-                        <div className="bg-featured-property ">
+                        <div className="bg-light ">
                             <img src={img5} className="w-100" alt="" />
                             <p className=" fw-bold text-center  fs-5 mt-3">EGP 1,200,000</p>
                             <p className="text-center">12/322 Albert street East Melbourne</p>
@@ -133,7 +133,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="col-sm-12 col-md-4 col-lg-4 " >
-                        <div className="bg-featured-property ">
+                        <div className="bg-light ">
                             <img src={img2} className="w-100" alt="" />
                             <p className=" fw-bold text-center  fs-5 mt-3">EGP 2,500,000</p>
                             <p className="text-center">12/322 Albert street East Melbourne</p>
@@ -156,7 +156,7 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="col-sm-12 col-md-4 col-lg-4 " >
-                        <div className="bg-featured-property ">
+                        <div className="bg-light ">
                             <img src={img3} className="w-100" alt="" />
                             <p className=" fw-bold text-center  fs-5 mt-3">EGP 3,200,000</p>
                             <p className="text-center">12/322 Albert street East Melbourne</p>
